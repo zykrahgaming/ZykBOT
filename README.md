@@ -1,2 +1,2 @@
-# ZykBOT
-No Thanks ill edit this another day ;3
+# DefinitelyNotBot
+A Discord bot coded in Discord.JS, hosted using Heroku.
